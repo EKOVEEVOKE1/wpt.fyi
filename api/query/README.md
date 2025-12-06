@@ -1,5 +1,4 @@
 # wpt.fyi Search queries
-
 wpt.fyi supports a structured search syntax, allowing the user to filter specific results.
 
 ## wpt.fyi search syntax
